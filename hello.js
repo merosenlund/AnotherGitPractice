@@ -1,1 +1,5 @@
-console.log("Hello, gitWorld!");
+function hello(name) {
+  console.log('Hello, ' + name + '!');
+}
+
+hello('world');
